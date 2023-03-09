@@ -15,6 +15,10 @@
  * @wordpress-plugin
  * Plugin Name:       aaa
  * Plugin URI:        https://https://github.com/schalkjoubert/aaa
+ 
+ * GitHub Plugin URI: schalkjoubert/aaa
+ * GitHub Plugin URI: https://https://github.com/schalkjoubert/aaa
+
  * Description:       Just a test
  * Version:           1.0.1
  * Author:            Schalk
