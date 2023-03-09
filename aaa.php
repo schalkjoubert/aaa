@@ -16,7 +16,7 @@
  * Plugin Name:       aaa
  * Plugin URI:        https://https://github.com/schalkjoubert/aaa
  * Description:       Just a test
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Schalk
  * Author URI:        https://thissideup.media
  * License:           GPL-2.0+
